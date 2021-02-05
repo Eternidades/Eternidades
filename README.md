@@ -2,7 +2,7 @@
 ### Hi im Eternity 👋
 
 
-- 📢 Im currently working on a Rust Cheat
+- 📢 Im currently working on nothing
 
 ### Connect with me: Eternity#3333
 
